@@ -1,2 +1,2 @@
-# finquant2
+# finquant2ab
 quantum finance repo
